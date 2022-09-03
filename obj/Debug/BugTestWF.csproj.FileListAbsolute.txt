@@ -1,0 +1,11 @@
+C:\Necrodever\Projects\BugTestWF\bin\Debug\BugTestWF.exe.config
+C:\Necrodever\Projects\BugTestWF\bin\Debug\BugTestWF.exe
+C:\Necrodever\Projects\BugTestWF\bin\Debug\BugTestWF.pdb
+C:\Necrodever\Projects\BugTestWF\obj\Debug\BugTestWF.csproj.AssemblyReference.cache
+C:\Necrodever\Projects\BugTestWF\obj\Debug\BugTestWF.csproj.SuggestedBindingRedirects.cache
+C:\Necrodever\Projects\BugTestWF\obj\Debug\BugTestWF.Properties.Resources.resources
+C:\Necrodever\Projects\BugTestWF\obj\Debug\BugTestWF.csproj.GenerateResource.cache
+C:\Necrodever\Projects\BugTestWF\obj\Debug\BugTestWF.csproj.CoreCompileInputs.cache
+C:\Necrodever\Projects\BugTestWF\obj\Debug\BugTestWF.exe
+C:\Necrodever\Projects\BugTestWF\obj\Debug\BugTestWF.pdb
+C:\Necrodever\Projects\BugTestWF\obj\Debug\BugTestWF.Form1.resources
